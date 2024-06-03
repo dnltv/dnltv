@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dnltv
-- 👀 In my free time, I prefer active recreation: cycling in summer 🚴🏼, skiing in winter ⛷. If there is an opportunity to arrange a small trip - without thinking twice, I will start! 🗺
-- 💻 I’m currently working on Backend Web-development (Python, Django 🤠) and trying to learn as much as possible 🧠
+- 💻 Python Backend developer (Django 🤠) 
 - 📫 How to reach me - treskovdanilv@gmail.com, https://www.t.me/dnltv 📱
 
 <!---
