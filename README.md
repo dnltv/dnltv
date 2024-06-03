@@ -1,7 +1,6 @@
 <div align="center">
   <h3>  👋  Hi, I’m @dnltv</h3>
   <h3>  💻  Python Backend developer</h3>
-  <h3>  📫 <a href="https://www.t.me/dnltv">Telegram</a>, treskovdanilv@gmail.com</h3><br>
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e479ylkd3x4nm0kf0gyntldeq2ybab2g7pgonfl4e4k&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="310" height="150"/>
 </div>
 
